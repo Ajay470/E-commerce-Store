@@ -1,13 +1,13 @@
-package com.masai;
+package com.madrina;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ECommerceMadrinaApplication {
+public class ECommerceStoreApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ECommerceMadrinaApplication.class, args);
+		SpringApplication.run(ECommerceStoreApplication.class, args);
 	}
 
 }
